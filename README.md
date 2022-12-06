@@ -29,11 +29,14 @@ This was done by laying out the relevant HTML correctly so that each section was
 
 This then coinsides with the flow of the website as per the example of the website below:
 
-![alt text](assets/images/websiteflowexample.png)
+![alt text](assets/images/websiteflowexample2.png)
 
 As per the instructions it was stated that the first project had to be larger than the other others, this was done by using a grid layout as shown below: 
 
-![alt text](assets/images/GridLayoutExample.png)
+![alt text](assets/images/GridLayoutExample2.png)
+
+In regards to the media queries aspect of this task please see an example below taken from the inspect option in Google Chrome (right click - inspect) as to how the page resizes depending on device (note that the header layout has been changed and the text has been removed)
+![alt text](assets/images/mediaqueryexample.png)
 
 ## Credits
 

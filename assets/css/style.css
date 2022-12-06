@@ -293,6 +293,10 @@ a:link {
   justify-content: space-around;
 }
 
+.links a {
+  justify-content: center;
+  align-items: center;
+}
 
 #about-me {
   text-align: center;
@@ -308,7 +312,7 @@ h3 {
 .footer {
   display: flex;
   height: 60px;
-  font-size: 10px;
+  font-size: 8px;
 }
 
 }
