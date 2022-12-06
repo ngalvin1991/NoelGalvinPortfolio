@@ -47,7 +47,7 @@ body {
 /* navigation bar */
 .nav{
   display: flex;
-  border: solid var(--whitetxt);
+  border: 5px solid var(--whitetxt);
   background-color: var(--bkkgd);
   background-repeat: no-repeat;
   margin: 0;
