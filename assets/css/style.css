@@ -263,7 +263,7 @@ a:link {
   color: var(--whitetxt)
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 500px) {
 
 .body {
   display: grid;
@@ -285,10 +285,12 @@ a:link {
 .nav {
   display: flex;
   align-content: center;
+  contain: content;
 }
 
 .links {
   display: flex;
+  justify-content: space-around;
 }
 
 
