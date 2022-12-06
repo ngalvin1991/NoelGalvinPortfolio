@@ -283,7 +283,7 @@ a:link {
 }
 
 .nav {
-  display: inline-flex;
+  display: flex;
   align-content: center;
 }
 
