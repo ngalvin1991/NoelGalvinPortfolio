@@ -2,8 +2,10 @@
 :root {
   --outside: orange;
   --whitetxt: white;
+  --bkkgd:rgb(0, 170, 162);
   --hdtext: rgb(2, 3, 2);
   --txtbg: rgba(225, 225, 225, 0.2)
+  
 }
 
 body {
@@ -22,7 +24,7 @@ body {
   border: 5px solid var(--whitetxt);
   height: 130px;
   padding: 0px;
-  background-color: var(--hdtext);
+  background-color: var(--bkkgd);
   background-image: url("../images/profilepicture2.jpg");
   background-repeat: no-repeat;
   background-size: contain;
@@ -46,7 +48,7 @@ body {
 .nav{
   display: flex;
   border: solid var(--whitetxt);
-  background-color: var(--hdtext);
+  background-color: var(--bkkgd);
   background-repeat: no-repeat;
   margin: 0;
   padding: 0px;
@@ -110,7 +112,7 @@ body {
 /* links to all recent project title text*/
 .headline  {
   display: flex;
-  background-color: black;
+  background-color: var(--bkkgd);
   padding: 4px auto;
   border: 5px solid var(--whitetxt);
   font-size: 15px;
@@ -139,7 +141,7 @@ h3 {
   padding-right: 35px;
   justify-content: space-evenly;
   line-height: 30px;
-  background-color: black;
+  background-color: var(--bkkgd);
   border: 5px solid var(--whitetxt);
 }
 
@@ -154,7 +156,7 @@ h3 {
   align-content: center;
   justify-content: space-evenly;
   line-height: 30px;
-  background-color: black;
+  background-color: var(--bkkgd);
   border: 5px solid var(--whitetxt);
 }
 
@@ -214,7 +216,7 @@ h3 {
 /* footer css */
 .footer{
   display: flex;
-  background-color: var(--hdtext);  
+  background-color: var(--bkkgd); 
   background-repeat: no-repeat;
   justify-content: center;
   align-items: center;
@@ -314,7 +316,9 @@ h3 {
  .header-name {
   display: flex;
  }
-
+ h3 {
+  font-size: 15px;
+}
 
 }
     
