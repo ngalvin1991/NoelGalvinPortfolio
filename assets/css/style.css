@@ -298,7 +298,8 @@ a:link {
 .links a {
   display: contents;
   justify-content: center;
-  align-items: center
+  align-items: center;
+  font-size: 8px;
   
 }
 
