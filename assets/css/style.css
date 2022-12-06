@@ -190,16 +190,19 @@ h3 {
 #second-p {
   grid-area: sp;
   background-image: url("../images/Computer\ code\ cup.jpg");
+  cursor: pointer;
 }
 
 #third-p {
   grid-area: tp;
   background-image: url("../images/Beach.jpg");
+  cursor: pointer;
 }
 
 #fourth-p {
   grid-area: ffp;
   background-image: url("../images/Stars.jpg");
+  cursor: pointer;
 }
 
 #fifth-p {
