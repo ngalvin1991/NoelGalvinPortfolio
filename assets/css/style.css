@@ -294,8 +294,10 @@ a:link {
 }
 
 .links a {
+  display: contents;
   justify-content: center;
-  align-items: center;
+  align-items: center
+  
 }
 
 #about-me {
