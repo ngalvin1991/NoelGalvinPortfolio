@@ -175,6 +175,7 @@ h3 {
 
 .projectGridArea {
   border: 1px solid var(--whitetxt);
+  border-top: 5px solid var(--whitetxt);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
