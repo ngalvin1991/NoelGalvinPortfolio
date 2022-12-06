@@ -290,7 +290,9 @@ a:link {
 
 .links {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .links a {
